@@ -3,7 +3,7 @@ Compiled guides and notes on various topics related to Linux. The content is org
 
 To make learning more interactive, we've included challenges in each section, enabling you to test your understanding of the topics. The sections are designed to be independent so you can focus on areas that interest you most.
 
-This repository represents the author's accumulated knowledge about Linux, gathered over time. Our goal is to support your learning journey and your work in the DevOps field with these resources. If you have any questions, feel free to reach out.
+
 
 ![linux](https://github.com/djeada/Linux-Notes/assets/37275728/b383696f-241a-4285-ac57-e0d576ecdb1e)
 
@@ -67,13 +67,4 @@ To organize the notes from easiest to hardest, we'll start with fundamental conc
 * https://www.linuxfromscratch.org/
 * https://docs.fedoraproject.org/en-US/Fedora/22/html/SELinux_Users_and_Administrators_Guide/index.html
 
-## Contributing
-If you have suggestions for improving the notes or have found a mistake, please [open an issue](https://github.com/djeada/Linux-Notes/issues) or [submit a pull request](https://github.com/djeada/Linux-Notes/pulls). Contributions are welcome!
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=djeada/Linux-Notes&type=Date)](https://star-history.com/#djeada/Linux-Notes&Date)
-test
