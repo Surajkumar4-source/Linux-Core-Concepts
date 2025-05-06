@@ -5,7 +5,7 @@ To make learning more interactive, we've included challenges in each section, en
 
 
 
-![linux](https://github.com/djeada/Linux-Notes/assets/37275728/b383696f-241a-4285-ac57-e0d576ecdb1e)
+
 
 ## Available notes
 
