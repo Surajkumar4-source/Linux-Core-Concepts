@@ -43,5 +43,4 @@ To organize the notes from easiest to hardest, we'll start with fundamental conc
 - [Network File System (NFS)](https://github.com/Surajkumar4-source/Linux-Core/blob/main/notes/nfs.md)
 - [Lightweight Directory Access Protocol (LDAP)](https://github.com/Surajkumar4-source/Linux-Core/blob/main/notes/ldap.md)
 - [SELinux](https://github.com/Surajkumar4-source/Linux-Core/blob/main/notes/selinux.md)
-- [Dynamic window manager](https://github.com/Surajkumar4-source/Linux-Core/blob/main/notes/dwm.md)
 - [Utilities](https://github.com/Surajkumar4-source/Linux-Core/blob/main/notes/utilities.md)
