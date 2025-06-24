@@ -3,7 +3,7 @@ Compiled guides and notes on various topics related to Linux. The content is org
 
 To make learning more interactive, we've included challenges in each section, enabling you to test your understanding of the topics. The sections are designed to be independent so you can focus on areas that interest you most.
 
-## Available notes
+## Available notes 
 
 To organize the notes from easiest to hardest, we'll start with fundamental concepts and progress towards more advanced topics. Here is the suggested order:
 
